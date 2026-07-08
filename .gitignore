@@ -1,0 +1,18 @@
+.prettierrc.json
+*.log
+node_modules/
+dist/
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Map images (can be large)
+assets/maps/*.png
+assets/maps/*.jpg
+
+# Environment variables
+.env
+.env.local
